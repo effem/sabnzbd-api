@@ -1,0 +1,17 @@
+{
+    "name": "effem/sabnzbd-api",
+    "description": "A PHP wrapper for the sabnzbd api",
+    "keywords": ["sabnzbd", "appi", "http"],
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "effem",
+            "email": "github@rofln.de",
+            "homepage": "https://github.com/effem"
+        }
+    ]
+}
